@@ -9,6 +9,8 @@ import BlogSmall from './components/shared/blog';
 import DiscoverProperties from './components/home/property-option';
 import Listing from './components/home/property-list';
 import Testimonials from './components/home/testimonial';
+import './style/index.css';
+
 export const metadata: Metadata = {
   title: "MegaKabin",
 };
