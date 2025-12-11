@@ -197,14 +197,11 @@ const Footer = () => {
         <div className="container mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
           <p className="text-center text-gray text-sm">
             Built with ❤️ by{" "}
-            <a
-              href="https://gitlab.com/users/DextrousDavid/projects"
-              target="_blank"
-              rel="noopener noreferrer"
+            <span
               className="text-primary hover:text-blue-400 transition-colors"
             >
               David Aimakhede
-            </a>
+            </span>
           </p>
         </div>
       </div>
