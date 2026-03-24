@@ -21,7 +21,7 @@ const Footer = () => {
                 style={{ width: "2.2rem", height: "auto" }}
                 quality={100}
               />
-            <span className="ml-2 font-bold text-2xl text-white">MegaKabin</span>
+            <span className="ml-2 font-bold text-2xl text-white">Modernstructura</span>
             </Link>
           </div>
           <div className="md:col-span-8 col-span-12 grid grid-cols-12 gap-4 px-4 sm:px-0">
@@ -30,7 +30,7 @@ const Footer = () => {
                 Address
               </h4>
               <p className="mb-6 text-gray text-base">
-                MegaKabin Real estate 8111 Westers Street Dancoste
+                Modernstructura Real estate 8111 Westers Street Dancoste, Temp
               </p>
               <div className="flex items-center gap-2">
                 <a
@@ -171,7 +171,7 @@ const Footer = () => {
                 Email :
                 <span  className="text-gray hover:text-white">
                   {" "}
-                  support@megakabin.com
+                  support@modernstructura.com
                 </span>
               </p>
             </div>

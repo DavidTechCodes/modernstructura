@@ -6,7 +6,7 @@ import Image from "next/image";
 import { getImgPath } from "@/utils/pathUtils";
 
 export const metadata: Metadata = {
-  title: "404 Page | MegaKabin-pro",
+  title: "404 Page | Modernstructura",
 };
 
 const ErrorPage = () => {

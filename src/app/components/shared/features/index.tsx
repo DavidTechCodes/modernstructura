@@ -60,7 +60,7 @@ export default function Features() {
                     <div className="relative">
                       <Image
                         src={getImgPath(property.property_img)}
-                        alt="MegaKabin Image"
+                        alt="modernstructura Image"
                         height={235}
                         width={370}
                         style={{ width: "100%", height: "auto" }}
@@ -102,7 +102,7 @@ export default function Features() {
                 className="mb-8 md:mb-3.75 text-4xl font-bold text-midnight_text dark:text-white"
                 data-aos="fade-left"
               >
-                Why People Choose MegaKabin
+                Why People Choose Modernstructura
               </p>
               {pageData.map((feature) => (
                 <div

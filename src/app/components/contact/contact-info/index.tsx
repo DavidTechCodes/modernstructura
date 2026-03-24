@@ -18,7 +18,7 @@ const ContactInfo = () => {
                     Email Us
                   </span>
                   <p className="text-midnight_text/70 font-normal text-xl max-w-80 pt-3 pb-7 dark:text-gray">
-                    Feel free to contact us at support@megakabin.com we’ll respond promptly
+                    Feel free to contact us at support@modernstructura.com we’ll respond promptly
                   </p>
                 </div>
               </div>
@@ -33,7 +33,7 @@ const ContactInfo = () => {
                     Address
                   </span>
                   <p className="text-midnight_text/70 font-normal text-xl max-w-80 pt-3 pb-7 dark:text-gray">
-                    MegaKabin Real estate 8111 Westers Street Dancoste
+                    Modernstructura Real estate 8111 Westers Street Dancoste
                   </p>
                 </div>
               </div>

@@ -12,7 +12,7 @@ import Testimonials from './components/home/testimonial';
 import './style/index.css';
 
 export const metadata: Metadata = {
-  title: "MegaKabin",
+  title: "Modernstructura",
 };
 
 export default function Home() {

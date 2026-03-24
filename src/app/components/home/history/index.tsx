@@ -13,7 +13,7 @@ export default function History() {
           data-aos="fade-right"
         >
           <p className="text-4xl text-midnight_text dark:text-white mb-8 font-bold">
-            MegaKabin History <br />
+            Modernstructura History <br />
             How we became number one
           </p>
           <p className="mb-8 pb-2 text-gray">

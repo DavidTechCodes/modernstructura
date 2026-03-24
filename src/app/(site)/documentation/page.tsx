@@ -6,7 +6,7 @@ import { PackageStructure } from "@/app/components/documentation/PackageStructur
 import { QuickStart } from "@/app/components/documentation/QuickStart";
 import { Metadata } from "next";
 export const metadata: Metadata = {
-    title: "Documentation | MegaKabin-pro",
+    title: "Documentation | Modernstructura",
 };
 
 export default function Page() {

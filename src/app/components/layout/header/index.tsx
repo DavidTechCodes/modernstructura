@@ -93,7 +93,7 @@ const Header: React.FC = () => {
       className={`fixed h-24 top-0 py-1 z-50 w-full bg-transparent transition-all ${sticky ? "shadow-lg dark:shadow-darkmd bg-white dark:bg-semidark" : "shadow-none"}`}
     >
       <div className="container mx-auto lg:max-w-screen-xl md:max-w-screen-md flex items-center justify-between px-4 py-6">
-        <span className="flex"><Logo /><Link href="/"><span className="ml-2 font-bold text-2xl dark:text-white light:text-black">MegaKabin</span></Link></span>
+        <span className="flex"><Logo /><Link href="/"><span className="ml-2 font-bold text-2xl dark:text-white light:text-black">Modernstructura</span></Link></span>
         <nav className="hidden lg:flex flex-grow items-center justify-center space-x-6">
           {data.map((item:any, index:any) => (
             <HeaderLink key={index} item={item} />
