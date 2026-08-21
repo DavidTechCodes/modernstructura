@@ -1,5 +1,5 @@
 /**
- * Converts markdown content to HTML string
+ * Converts markdown content to HTML string  
  * For static export, this is a simple passthrough since react-markdown handles rendering
  */
 export default async function markdownToHtml(
